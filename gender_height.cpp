@@ -5,10 +5,10 @@ int main()
     
     bool ismale;
     cout<<"enter any non zero number for true and 0 for false.\n";
-    cout<<"are you male:";
+    cout<<"are you male?:";
     cin>>ismale;
     bool istall;
-    cout<<"are you tall:";
+    cout<<"are you tall?:";
     cin>>istall;
     
     if(ismale && istall)
